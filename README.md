@@ -7,7 +7,7 @@
 - Networking? Router Switches ASA IPS IDS <br>
 - Web Development? PHP MySQL BootStrap JQuery django <br>
 - Security? EC-Council Certified Security Analyst <br>
-- System? Arch <br>
+- System? Linux <br>
 - Familier Languages? JavaScript Python PHP JAVA C# C <br>
 <br><br>
 Ever ready to have a talk on technology..
