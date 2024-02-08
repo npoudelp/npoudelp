@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @npoudelp 
 - 👀 I’m interested in EVERYTHING
 - 🌱 I’m currently learning to LEARN
-- 💞️ I’m looking to collaborate with cyber security companies
+- 💞️ I’m looking to collaborate with tech lovers
 - 📫 How to reach me? A simple <a href="mailto:npoudelp@gmail.com">email</a> can do the job
 <br><br>
 - Networking? Router Switches ASA IPS IDS <br>
