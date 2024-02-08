@@ -10,4 +10,4 @@
 - System? Linux <br>
 - Familier Languages? JavaScript Python PHP JAVA C# C <br>
 <br><br>
-Ever ready to have a talk on technology..
+Ever ready to talk about technology...
